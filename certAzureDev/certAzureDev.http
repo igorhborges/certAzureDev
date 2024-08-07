@@ -1,0 +1,6 @@
+@certAzureDev_HostAddress = http://localhost:5088
+
+GET {{certAzureDev_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
