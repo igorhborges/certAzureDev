@@ -12,7 +12,7 @@ jobs:
       id-token: write
 
     steps:
-    - name: Checkout code
+    - name: Checkout code s
       uses: actions/checkout@v2
 
     - name: Log in to Azure
